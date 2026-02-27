@@ -1,4 +1,4 @@
-##  ⭐ Fernanda
+## ⭐ Fernanda
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
@@ -82,21 +82,21 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
-
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="200em" 
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergomes76&layout=donut&theme=tokyonight"
   />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergomes76&layout=compact&theme=tokyonight"/>
 </p>
 
 </p>
