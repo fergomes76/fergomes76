@@ -1,4 +1,4 @@
-## # ⭐ Fernanda
+##  ⭐ Fernanda
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
