@@ -86,6 +86,7 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 <br/>
 <br/>
 
+
 ### 📊 Estatísticas
 
 <p align="center">
