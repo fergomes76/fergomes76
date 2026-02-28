@@ -2,13 +2,9 @@
 
 # ✨ Welcome to my GitHub ✨
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
-
-</div>
-
 Me chamo Fernanda da Rocha Gomes e tenho 19 anos. Tenho grande interesse por tecnologia e estou sempre buscando evoluir por meio de novos projetos e aprendizados.
 Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área de desenvolvimento. 🚀
-
-
+</div>
 
 ### 🤖 Linguagens e Tecnologias
 
