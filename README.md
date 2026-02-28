@@ -4,7 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-# ✨ Welcome to my GitHub ✨
+<!-- welcome digitando -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E100FF&center=true&vCenter=true&width=600&lines=+Welcome+to+my+GitHub+✨" />
+</p>
+
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Me chamo Fernanda da Rocha Gomes e tenho 19 anos. Tenho grande interesse por tecnologia e estou sempre buscando evoluir por meio de novos projetos e aprendizados.
