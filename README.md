@@ -3,8 +3,8 @@
 # ✨ Welcome to my GitHub ✨
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 Me chamo Fernanda da Rocha Gomes e tenho 19 anos. Tenho grande interesse por tecnologia e estou sempre buscando evoluir por meio de novos projetos e aprendizados.
+
 Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área de desenvolvimento. 🚀
-</div>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -83,6 +83,8 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <br/>
 <br/>
+
+</div>
 
 ### 📊 Estatísticas
 <p align="center">
