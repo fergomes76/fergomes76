@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=&fontSize=0" width="100%"/>
+</p>
 # ✨ Welcome to my GitHub ✨
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
