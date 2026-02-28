@@ -6,7 +6,7 @@
 
 <!-- welcome digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E100FF&center=true&vCenter=true&width=600&lines=+Welcome+to+my+GitHub+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile✨" />
 </p>
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
