@@ -1,4 +1,8 @@
-## ⭐ Fernanda
+## <div align="center">
+
+# ✨ Welcome to my GitHub ✨
+
+</div>
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
