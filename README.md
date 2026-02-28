@@ -85,11 +85,10 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 <br/>
 <br/>
 
-</div>
-
 ### 📊 Estatísticas
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fergomes76&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 </p>
+</div>
