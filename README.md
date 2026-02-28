@@ -9,7 +9,7 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -17,7 +17,7 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -25,7 +25,7 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -33,7 +33,7 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -41,7 +41,7 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -49,7 +49,7 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img
-  align="left"
+  align="center"
   alt="C#"
   title="C#"
   width="30px"
@@ -57,7 +57,7 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -65,7 +65,7 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img
-  align="left"
+  align="center"
   alt="Figma"
   title="Figma"
   width="30px"
@@ -73,14 +73,14 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 <img
-  align="left"
+  align="center"
   alt="VS Code"
   title="VS Code"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="center" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <br/>
 <br/>
 
