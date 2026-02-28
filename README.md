@@ -87,7 +87,8 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 <br/>
 
 ### 📊 Estatísticas
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergomes76&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fergomes76&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 </p>
