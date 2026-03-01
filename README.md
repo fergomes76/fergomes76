@@ -96,13 +96,10 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" 
+  <img height="180em"
        src="https://github-readme-stats.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img width="350"
-       src="https://quickchart.io/chart?width=350&height=350&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22TypeScript%22%2C%22Python%22%2C%22C%23%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C20%2C15%2C10%2C10%2C10%5D%7D%5D%7D%7D"/>
+  <img height="180em"
+       src="https://quickchart.io/chart?width=300&height=300&backgroundColor=transparent&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22TypeScript%22%2C%22Python%22%2C%22C%23%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C20%2C15%2C10%2C10%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23E34F26%22%2C%22%231572B6%22%2C%22%23F7DF1E%22%2C%22%233178C6%22%2C%22%233776AB%22%2C%22%239B4F96%22%5D%2C%22borderColor%22%3A%22%231a1b27%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%7D%7D"/>
 </p>
-
 </div>
