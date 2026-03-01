@@ -93,9 +93,8 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 <br/>
 <br/>
 
+ 📊 Estatísticas
 </div>
-### 📊 Estatísticas
-
 <table>
   <tr>
     <td>
