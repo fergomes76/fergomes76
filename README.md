@@ -119,5 +119,6 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
       }
     }
   }" />
+</div>
 </p>
 </div>
