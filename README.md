@@ -96,36 +96,5 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 ### 📊 Estatísticas
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true"/>
-  ## 📊 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'doughnut',
-    data:{
-      labels:['HTML','CSS','JavaScript','Python','C#'],
-      datasets:[{
-        data:[40,25,20,10,5],
-        backgroundColor:[
-          '#c084fc',
-          '#a855f7',
-          '#9333ea',
-          '#7e22ce',
-          '#6b21a8'
-        ],
-        borderColor:'#0d1117',
-        borderWidth:4
-      }]
-    },
-    options:{
-      cutout:'70%',
-      plugins:{
-        legend:{
-          labels:{color:'white'}
-        }
-      }
-    }
-  }" width="260">
-</p>
-</p>
 </p>
 </div>
