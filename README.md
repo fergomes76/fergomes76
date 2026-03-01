@@ -98,7 +98,6 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true"/>
  <p align="center">
 <p align="center">
-  <img 
-    src="https://quickchart.io/chart?width=300&height=300&c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'HTML'%2C'CSS'%2C'JavaScript'%2C'Python'%2C'C%23'%5D%2Cdatasets%3A%5
+  <img src="https://quickchart.io/chart?width=350&height=350&c=%7B%22type%22%3A%22doughnut%22%2C
     </p>
 </div>
