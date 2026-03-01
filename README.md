@@ -94,10 +94,12 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 <br/>
 
 ### 📊 Estatísticas
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true"/>
- <p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 <p align="center">
-  <img src="https://quickchart.io/chart?width=350&height=350&c=%7B%22type%22%3A%22doughnut%22%2C
-    </p>
+  <img src="https://quickchart.io/chart?width=350&height=350&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22TypeScript%22%2C%22Python%22%2C%22C%23%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C20%2C15%2C10%2C10%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23E34F26%22%2C%22%231572B6%22%2C%22%23F7DF1E%22%2C%
 </div>
