@@ -95,10 +95,21 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 
 ### 📊 Estatísticas
 
+<div align="center">
+
+<table>
+<tr>
+<td>
 <img height="180em"
      src="https://github-readme-stats.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</td>
 
+<td>
 <img height="180em"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergomes76&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 
+</div>
 </div>
