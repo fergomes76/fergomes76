@@ -93,14 +93,18 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 <br/>
 <br/>
 
+</div>
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    height="200em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergomes76&layout=donut&theme=tokyonight"
-  />
-</p>
-<p align="center">
-</p>
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em"
+           src="https://github-readme-stats.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td>
+      <img height="180em"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergomes76&theme=tokyonight&layout=compact&hide_border=true"/>
+    </td>
+  </tr>
+</table>
