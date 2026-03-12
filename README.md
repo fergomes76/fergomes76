@@ -110,6 +110,6 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 </td>
 </tr>
 </table>
-
+<img src="https://raw.githubusercontent.com/fergomes76/fergomes76/output/github-contribution-grid-snake.svg">
 </div>
 </div>
