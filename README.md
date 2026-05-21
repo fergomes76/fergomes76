@@ -92,24 +92,3 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 <img align="center" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=fergomes76&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</td>
-
-<td>
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergomes76&layout=compact&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-</table>
-<img src="https://raw.githubusercontent.com/fergomes76/fergomes76/output/github-contribution-grid-snake.svg">
-</div>
-</div>
