@@ -43,14 +43,6 @@ Aqui no GitHub compartilho meus estudos, projetos e minha trajetória na área d
 />
 <img 
     align="center" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
