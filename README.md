@@ -4,15 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=56&duration=2500&pause=1000&color=FFB7D5&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=90&lines=Fernanda+Gomes" alt="Fernanda Gomes"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=19&duration=3000&pause=1000&color=F4C2D7&background=00000000&center=true&vCenter=true&width=560&height=40&lines=initializing+%E2%9C%BF;hello%2C+welcome;turning+ideas+into+code;always+learning%2C+always+evolving" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=900&color=F4C2D7&background=00000000&center=true&vCenter=true&width=520&height=40&lines=loading+profile+%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+0%25;loading+profile+%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+20%25;loading+profile+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+45%25;loading+profile+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+70%25;loading+profile+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;loading+profile+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;system+ready+%E2%9C%BF;turning+ideas+into+code;always+learning%2C+always+evolving" alt="loading"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=24&duration=1500&color=FFB7D5&background=00000000&center=true&vCenter=true&repeat=false&width=320&height=40&lines=sobre+mim" alt="sobre mim"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=24&duration=1500&color=FFB7D5&background=00000000&center=true&vCenter=true&repeat=false&width=320&height=40&lines=about+me" alt="about me"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=18&duration=1500&color=E8D5DE&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=32&lines=Apaixonada+por+tecnologia%2C+design+e+inova%C3%A7%C3%A3o." alt="descrição 1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=18&duration=1500&color=E8D5DE&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=32&lines=Passionate+about+technology%2C+design+and+innovation." alt="descrição 1"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=18&duration=1500&color=E8D5DE&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=32&lines=Gosto+de+criar+solu%C3%A7%C3%B5es+limpas+e+organizadas." alt="descrição 2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=18&duration=1500&color=E8D5DE&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=32&lines=I+love+creating+clean+and+organized+solutions." alt="descrição 2"/>
 
 <br/><br/>
 
@@ -50,5 +50,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=24&duration=4000&pause=1500&color=FFB7D5&background=00000000&center=true&vCenter=true&width=560&height=50&lines=the+future+is+written+in+code+%E2%99%A1;thanks+for+visiting+%E2%9C%BF" alt="footer"/>
 
 <br/>
+
 
 </div>
