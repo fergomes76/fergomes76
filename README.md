@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=56&duration=2500&pause=1000&color=FFB7D5&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=90&lines=Fernanda+Gomes" alt="Fernanda Gomes"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=19&duration=3000&pause=1000&color=F4C2D7&background=00000000&center=true&vCenter=true&width=560&height=40&lines=initializing+%E2%9C%BF;ol%C3%A1%2C+seja+bem-vindo(a);criando+ideias+em+c%C3%B3digo;sempre+aprendendo%2C+sempre+evoluindo" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=19&duration=3000&pause=1000&color=F4C2D7&background=00000000&center=true&vCenter=true&width=560&height=40&lines=initializing+%E2%9C%BF;hello%2C+welcome;turning+ideas+into+code;always+learning%2C+always+evolving" alt="typing"/>
 
 <br/><br/>
 
@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=18&duration=1500&color=E8D5DE&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=32&lines=Apaixonada+por+tecnologia%2C+design+e+inova%C3%A7%C3%A3o." alt="descrição 1"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=18&duration=1500&color=E8D5DE&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=32&lines=Gosto+de+criar+solu%C3%A7%C3%B5es+limpas%2C+organizadas+e+com+visual+delicado." alt="descrição 2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=18&duration=1500&color=E8D5DE&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=32&lines=Gosto+de+criar+solu%C3%A7%C3%B5es+limpas+e+organizadas." alt="descrição 2"/>
 
 <br/><br/>
 
@@ -44,10 +44,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=fergomes76&hide_border=true&background=00000000&ring=FFB7D5&fire=FFB7D5&currStreakNum=FFB7D5&currStreakLabel=FFB7D5&sideNums=E8D5DE&sideLabels=E8D5DE&dates=C9A9B8" alt="Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fergomes76&bg_color=0d1117&color=FFB7D5&line=FFB7D5&point=FFFFFF&area=true&area_color=FFB7D5&hide_border=true" alt="Activity Graph" width="100%"/>
 
 <br/><br/>
 
