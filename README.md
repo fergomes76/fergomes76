@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=56&duration=2500&pause=1000&color=FFB7D5&background=00000000&center=true&vCenter=true&repeat=false&width=640&height=90&lines=Fernanda+Gomes" alt="Fernanda Gomes"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2200&pause=900&color=F4C2D7&background=00000000&center=true&vCenter=true&width=520&height=40&lines=loading+profile+%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+0%25;loading+profile+%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+20%25;loading+profile+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+45%25;loading+profile+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+70%25;loading+profile+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+90%25;loading+profile+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;system+ready+%E2%9C%BF;turning+ideas+into+code;always+learning%2C+always+evolving" alt="loading"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2600&pause=1000&color=F4C2D7&background=00000000&center=true&vCenter=true&width=520&height=40&lines=initializing...;welcome;turning+ideas+into+code;always+learning%2C+always+evolving" alt="typing"/>
 
 <br/><br/>
 
